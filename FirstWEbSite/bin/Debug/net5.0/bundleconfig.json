@@ -1,0 +1,10 @@
+[
+  {
+    "outputFileName": "/wwwroot/Bundle/myscript.min.js",
+    "inputFiles": [
+      "/wwwroot/js/script1.js",
+      "/wwwroot/js/script2.js"
+    ],
+    "minify": { "enabled": true }
+  }
+]
